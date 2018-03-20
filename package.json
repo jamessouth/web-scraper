@@ -1,0 +1,19 @@
+{
+  "name": "js-project-6",
+  "version": "1.0.0",
+  "description": "content scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamessouth/JS-Project-6.git"
+  },
+  "author": "james south",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamessouth/JS-Project-6/issues"
+  },
+  "homepage": "https://github.com/jamessouth/JS-Project-6#readme"
+}
