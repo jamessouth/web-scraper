@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jamessouth/JS-Project-6/issues"
   },
-  "homepage": "https://github.com/jamessouth/JS-Project-6#readme"
+  "homepage": "https://github.com/jamessouth/JS-Project-6#readme",
+  "dependencies": {
+    "csv-writer": "^1.0.0",
+    "scrape-it": "^5.0.2"
+  }
 }
