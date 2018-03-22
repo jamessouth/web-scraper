@@ -18,6 +18,7 @@
   "homepage": "https://github.com/jamessouth/JS-Project-6#readme",
   "dependencies": {
     "csv-writer": "^1.0.0",
+    "moment": "^2.21.0",
     "scrape-it": "^5.0.2"
   }
 }
