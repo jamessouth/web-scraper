@@ -85,7 +85,7 @@ function errHand(msg){
     if(err){
       console.error('file open error', err);
     }
-    fs.write(fd, `[${errTime}]; ${msg}`, (err, written, string) => {
+    fs.write(fd, `[${errTime}] ${msg}`, (err, written, string) => {
       if(err){
         console.error('file write error', err);
       }
