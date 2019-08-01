@@ -1,5 +1,5 @@
 {
-  "name": "js-project-6",
+  "name": "web-scraper",
   "version": "1.0.0",
   "description": "content scraper",
   "main": "scraper.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jamessouth/JS-Project-6.git"
+    "url": "git+https://github.com/jamessouth/web-scraper.git"
   },
   "author": "james south",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jamessouth/JS-Project-6/issues"
+    "url": "https://github.com/jamessouth/web-scraper/issues"
   },
-  "homepage": "https://github.com/jamessouth/JS-Project-6#readme",
+  "homepage": "https://github.com/jamessouth/web-scraper#readme",
   "dependencies": {
     "csv-writer": "^1.5.0",
     "moment": "^2.24.0",
