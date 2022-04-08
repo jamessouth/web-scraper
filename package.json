@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jamessouth/web-scraper#readme",
   "dependencies": {
     "csv-writer": "^1.5.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "scrape-it": "^5.1.4"
   }
 }
